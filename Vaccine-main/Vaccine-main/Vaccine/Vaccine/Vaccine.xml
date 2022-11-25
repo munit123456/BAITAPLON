@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ds>
+  <Vaccine>
+    <MaDanhMuc>DM01</MaDanhMuc>
+    <MaVaccine>VC01</MaVaccine>
+    <TenVaccine>Vaccin Astrazeneca</TenVaccine>
+    <HSD>null</HSD>
+  </Vaccine>
+  <Vaccine>
+    <MaDanhMuc>DM02</MaDanhMuc>
+    <MaVaccine>VC02</MaVaccine>
+    <TenVaccine>Vaccin Fizer</TenVaccine>
+    <HSD>null</HSD>
+  </Vaccine>
+  <Vaccine>
+    <MaDanhMuc>DM02</MaDanhMuc>
+    <MaVaccine>VC03</MaVaccine>
+    <TenVaccine>Vaccin Covas</TenVaccine>
+    <HSD>null</HSD>
+  </Vaccine>
+  <Vaccine>
+    <MaDanhMuc>DM04</MaDanhMuc>
+    <MaVaccine>VC04</MaVaccine>
+    <TenVaccine>Vaccin Sởi 1</TenVaccine>
+    <HSD>null</HSD>
+  </Vaccine>
+  <Vaccine>
+    <MaDanhMuc>DM02</MaDanhMuc>
+    <MaVaccine>VC05</MaVaccine>
+    <TenVaccine>Vaccin Sởi 2</TenVaccine>
+    <HSD>null</HSD>
+  </Vaccine>
+  <Vaccine>
+    <MaDanhMuc>DM03</MaDanhMuc>
+    <MaVaccine>VC06</MaVaccine>
+    <TenVaccine>Vaccin Uvian12</TenVaccine>
+    <HSD>null</HSD>
+  </Vaccine>
+  <Vaccine>
+    <MaDanhMuc>DM02</MaDanhMuc>
+    <MaVaccine>VC07</MaVaccine>
+    <TenVaccine>Vaccin Uvian13</TenVaccine>
+    <HSD>null</HSD>
+  </Vaccine>
+
+</ds>
